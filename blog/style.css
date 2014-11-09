@@ -1,0 +1,68 @@
+html{
+	background: lightblue;
+
+}
+
+header{
+	background-color: #33CCFF;
+	color: #505050;
+	overflow: hidden;
+	text-align: right;
+	border-radius: 5px 5px 0 0;
+}
+body{
+	background: #6699FF;
+}
+
+.heading{
+	font-family: times;
+	font-size: 20px;
+	padding-right: 50px;
+}
+
+ul
+{
+	background: #6699FF; 
+	vertical-align: text-bottom;
+}
+
+
+ul li {
+	font-family: verdana;
+	font-size: 15px;
+	color: blue;
+	display: inline;
+	text-align: center;
+	margin: 30px 30px 0;
+	padding: 10px;
+	border-radius: 10px;
+
+}
+
+div h1{
+	font-family: arial;
+	float: top;
+	margin-top: 40px;
+}
+
+div time{
+	font-family: arial;
+	text-align: right;
+}
+
+.content{
+	background: #CCFFFF;
+	color:	#888888;
+	overflow: hidden;
+	font-family: arial;
+	font-size: 18px;
+}
+
+footer{
+	background: #0033FF;
+	color: grey;
+	font-size: 20px;
+	overflow: hidden;
+	
+	
+}
